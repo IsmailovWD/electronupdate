@@ -5,6 +5,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
+  Yangi versiya 0.0.1
   <img alt="Vite logo" width="120" src="./assets/vite.svg" />
   <img alt="Vue logo" width="120" src="./assets/logo.png" />
   <img alt="Electron logo" width="120" src="./assets/electron.png" />
@@ -25,9 +26,11 @@ import HelloWorld from "./components/HelloWorld.vue";
   color: #2c3e50;
   margin-top: 60px;
 }
+
 img {
   margin: 5px;
 }
+
 .plugins {
   font-size: 20px;
   font-weight: bold;
